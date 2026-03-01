@@ -1,9 +1,9 @@
-# Abhyudaya Mahapatra | Data Analyst
+# Abhyudaya Mahapatra | Data Analyst Intern 
 
-📊 SQL • Python • Power BI • Excel  
-🎯 Entry-Level Data Analyst | Available for Internship / Full-Time (2026)
+SQL • Python • Power BI • Excel  
+Entry-Level Data Analyst | Available for Internship / Full Time (2026)
 
-I help businesses make data-driven decisions by cleaning, analyzing, and visualizing large datasets to uncover actionable insights.
+I help businesses make data driven decisions by cleaning, analyzing, and visualizing large datasets to uncover actionable insights.
 
 ---
 
@@ -13,7 +13,7 @@ I help businesses make data-driven decisions by cleaning, analyzing, and visuali
 - Completed multiple **end-to-end analytics projects** using real-world datasets
 - Analyzed **10,000+ records** to identify revenue trends, churn risks, and workforce patterns
 - Strong skills in **SQL querying, Python-based analysis, and Power BI dashboard development**
-- Experience building **automated data workflows and AI-assisted reporting**
+- Experience building **automated data workflows and AI assisted reporting**
 - Focused on delivering **business insights, not just analysis**
 
 ---
@@ -33,7 +33,7 @@ I help businesses make data-driven decisions by cleaning, analyzing, and visuali
 
 **Excel**
 - Pivot Tables
-- XLOOKUP / INDEX-MATCH
+- XLOOKUP / INDEX MATCH
 - Data Validation & Reporting
 
 **Databases**
@@ -47,7 +47,7 @@ I help businesses make data-driven decisions by cleaning, analyzing, and visuali
 
 **Automation & AI**
 - n8n workflow automation
-- AI-assisted insight generation
+- AI assisted insight generation
 
 ---
 
@@ -65,7 +65,7 @@ I help businesses make data-driven decisions by cleaning, analyzing, and visuali
 **Python (Pandas, Matplotlib)**
 - Processed **7,000+ customer records**
 - Identified key churn drivers using EDA and correlation
-- Segmented high-risk customers to support retention strategy
+- Segmented high risk customers to support retention strategy
 
 ---
 
@@ -80,7 +80,7 @@ I help businesses make data-driven decisions by cleaning, analyzing, and visuali
 ### AI-Based Workflow Automation
 **n8n + AI Tools**
 - Automated data collection, processing, and email reporting
-- Generated AI-based performance summaries
+- Generated AI based performance summaries
 - Reduced manual analysis time for recurring tasks
 
 ---
@@ -100,4 +100,4 @@ I help businesses make data-driven decisions by cleaning, analyzing, and visuali
 
 ---
 
-⭐ Open to Data Analyst roles | Immediate internship opportunities welcome
+Open to Data Analyst roles | Immediate internship opportunities welcome
