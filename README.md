@@ -85,13 +85,6 @@ I help businesses make data-driven decisions by cleaning, analyzing, and visuali
 
 ---
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhyudayamahapatra&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyudayamahapatra&layout=compact)
-
----
-
 ## Currently Learning
 
 - Advanced SQL Optimization
@@ -103,7 +96,7 @@ I help businesses make data-driven decisions by cleaning, analyzing, and visuali
 ## Contact
 
 📧 abhyudayamahapatra04@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/abhyudaya-mahapatra-5687243a3  
+🔗 LinkedIn: https://www.linkedin.com/in/abhyudayamahapatra 
 
 ---
 
