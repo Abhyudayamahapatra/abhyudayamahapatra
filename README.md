@@ -60,21 +60,6 @@ I help businesses make data driven decisions by cleaning, analyzing, and visuali
 - Identified high-performing regions and seasonal demand patterns
 
 ---
-
-### Telecom Customer Churn Analysis
-**Python (Pandas, Matplotlib)**
-- Processed **7,000+ customer records**
-- Identified key churn drivers using EDA and correlation
-- Segmented high risk customers to support retention strategy
-
----
-
-### HR Attrition Dashboard
-**Power BI + DAX**
-- Built workforce analytics dashboard
-- Calculated attrition rate and department-level insights
-- Enabled dynamic filtering for management reporting
-
 ---
 
 ### AI-Based Workflow Automation
